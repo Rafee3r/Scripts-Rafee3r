@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gork3m/Jailbricked/master/V2Loader.lua"))()

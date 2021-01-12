@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bebo-Mods/Bebo-Mods-Scripts-9/master/Ragdoll%20Royale%20Script%20OP"))()

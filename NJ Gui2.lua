@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MichaeI825/Ninja-Legends-2-GUI/main/Ninja%20Legends%202%20GUI"))();
